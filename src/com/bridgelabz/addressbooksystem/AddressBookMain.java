@@ -7,7 +7,7 @@ public class AddressBookMain {
 	public static void main(String[] args) {
 
         //Welcome message for Users
-        System.out.println("Welcome to Address Book System Problem Developed by Tahir Mansuri.");
+        System.out.println("Welcome to Address Book System Problem.");
 
         int choice; //Variable for user Choice
 
